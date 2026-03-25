@@ -1,15 +1,12 @@
-# n = int(input("Enter a no : "))
+# import math
 
-# for i in range(1, n+1):
-#     if i % 2 == 0:
-#         print(i)
+# n = 5
 
-n = int(input("Enter a no : "))
+# print(math.factorial(n))
 
-for i in range(1, n+1):
-    if i % 2 != 0:
-        print(i)
+# for i in range(1,5):
 
+n = 1
 
-
-
+while (n = 5):
+    ++n
